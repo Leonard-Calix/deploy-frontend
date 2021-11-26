@@ -1,0 +1,8 @@
+.btn-sidebar:hover{
+    background-color: darkgray;
+    border-radius: 35;
+}
+
+.btn-sidebar{
+    cursor: pointer;
+}
